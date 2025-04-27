@@ -1,6 +1,4 @@
-# Bigdata_cerfificate
 ---
-```markdown
 # 빅데이터분석기사 실기 기출문제 풀이 및 정리
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/[Your-GitHub-Username]/[Your-Repository-Name])](https://github.com/[Your-GitHub-Username]/[Your-Repository-Name])
